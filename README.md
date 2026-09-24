@@ -4,7 +4,11 @@
 
 ## Скачать
 
-Готовые файлы лежат в папке [`dist/`](dist) (откройте файл и нажмите «Download raw file»):
+Готовые файлы лежат прямо в корне репозитория (а также в папке [`dist/`](dist)). Прямые ссылки на скачивание:
+
+- [DesktopSorter.exe (64-бит)](https://github.com/marsek777/desktop-sorter/raw/main/DesktopSorter.exe)
+- [DesktopSorter-32bit.exe (32-бит)](https://github.com/marsek777/desktop-sorter/raw/main/DesktopSorter-32bit.exe)
+
 
 | Файл | Для чего |
 |---|---|
